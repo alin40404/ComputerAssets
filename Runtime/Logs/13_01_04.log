@@ -1,0 +1,767 @@
+[ 2013-01-04T16:38:33+08:00 ] /ComputerAssets/index.php/User/Test2 | ERR: (ThinkException) 非法操作Test2
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.000934s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001035s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000605s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000678s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.087801s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.087908s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 188 行.
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 188 行.
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 192 行.
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 192 行.
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 199 行.
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.411763s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.411847s ]
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T16:38:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.028902s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.053811s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.053339s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.036030s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.172408s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.014885s ]
+[ 2013-01-04T16:38:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.015052s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000920s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001022s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000605s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000676s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.041120s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.041234s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.037572s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037686s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000410s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000450s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000265s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000510s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001815s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000499s ]
+[ 2013-01-04T16:38:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000565s ]
+[ 2013-01-04T16:38:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T16:38:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T16:38:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.012812s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.012937s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.008971s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009070s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.011338s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.011438s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.047740s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.047852s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.005481s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.012185s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001204s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.004780s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.023924s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.001556s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001627s ]
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:18:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001443s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001546s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001154s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001235s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.001470s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.001551s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.015749s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015850s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000937s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.001078s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000794s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.001054s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004070s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.001044s ]
+[ 2013-01-04T17:18:50+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001112s ]
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:18:51+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 412 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000903s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001004s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000659s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000433s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000514s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008350s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008461s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000425s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000813s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000282s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000515s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002235s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000502s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000568s ]
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:18:52+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 412 行.
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001036s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001142s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000610s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000682s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000400s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000475s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.010472s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010570s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000375s ]
+[ 2013-01-04T17:19:11+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000435s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000260s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001757s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000489s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000555s ]
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:19:12+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000918s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001020s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000607s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000680s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000393s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000468s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008153s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008261s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000447s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000500s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000283s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000517s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001948s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000490s ]
+[ 2013-01-04T17:19:13+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000556s ]
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:19:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000902s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001001s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000593s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000890s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000400s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000474s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.009381s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009495s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000435s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000472s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000390s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000552s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002067s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000676s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000755s ]
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:19:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000919s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001021s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000655s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000442s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000522s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.007943s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008038s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000369s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000431s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000254s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000506s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001746s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000610s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000689s ]
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.002069s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.002186s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000637s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000711s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000410s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000484s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008189s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008295s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000407s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000439s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000278s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000534s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001844s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000497s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000563s ]
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000913s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001014s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000656s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.001515s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.001647s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008425s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008524s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000363s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000435s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000254s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000507s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001739s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000490s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000556s ]
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:38+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000896s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.000998s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000663s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000405s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000482s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.009042s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.009172s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000393s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000451s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000266s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001804s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000515s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000583s ]
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:39+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000898s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.000997s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000591s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000661s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000448s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000533s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008184s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008282s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000368s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000429s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000252s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000516s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001749s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000489s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000555s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000910s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001010s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000605s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000674s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000507s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000612s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008451s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008565s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000697s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000558s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000321s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000592s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002420s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000524s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000590s ]
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fopen() expects at least 2 parameters, 1 given UserAction.class.php 第 408 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] stream_get_contents() expects parameter 1 to be resource, boolean given UserAction.class.php 第 409 行.
+[ 2013-01-04T17:20:40+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] fclose(): supplied argument is not a valid stream resource UserAction.class.php 第 410 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001428s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001533s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001137s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001215s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.001792s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.001891s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.013028s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.013128s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000928s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000963s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000874s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.001243s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004258s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.001150s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001228s ]
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:21:00+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined variable: path UserAction.class.php 第 414 行.
+[ 2013-01-04T17:21:01+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000909s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001012s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000656s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000395s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000479s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008110s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008206s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000365s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000255s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000510s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001751s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000505s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000570s ]
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:21:02+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined variable: path UserAction.class.php 第 414 行.
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001901s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.002018s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000624s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000694s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000430s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000509s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008023s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008121s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000368s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000433s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000254s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000509s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001747s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000490s ]
+[ 2013-01-04T17:21:10+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000556s ]
+[ 2013-01-04T17:21:11+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:21:11+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:21:11+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000904s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001034s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000624s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000695s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000430s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000507s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008645s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008745s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000381s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000519s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000267s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000515s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001869s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000514s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000580s ]
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:22:14+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000922s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001027s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000661s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000399s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000474s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008367s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008465s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000367s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000442s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000257s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000548s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001800s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000525s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000591s ]
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:22:22+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000894s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.000995s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000655s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000399s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000472s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008522s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008622s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000377s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000435s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000255s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000508s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001756s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000495s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000561s ]
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:22:28+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001925s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.002042s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001179s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001257s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.001467s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.001549s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.010686s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010782s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.001147s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.001482s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001036s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.001059s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004954s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.001066s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001140s ]
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:27:44+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.012756s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.012883s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009144s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009241s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.020596s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.020704s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.078869s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.078984s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.022693s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.028725s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.002514s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.003551s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.057763s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.010970s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.011051s ]
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:51:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.001663s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001785s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000644s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000724s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000422s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000499s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.010527s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.010647s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000450s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.002547s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000414s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.001412s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.005054s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000957s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001034s ]
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:52:03+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000986s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001106s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000667s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000754s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000548s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000648s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008113s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008223s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000381s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000433s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000262s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000506s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001764s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000506s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000572s ]
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:52:09+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000907s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001008s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000590s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000659s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000482s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000560s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008167s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008292s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000387s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000446s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000315s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.001291s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002652s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000964s ]
+[ 2013-01-04T17:52:15+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.001078s ]
+[ 2013-01-04T17:52:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:52:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:52:16+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000928s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001035s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000600s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000670s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000405s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000481s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008825s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008924s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000372s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000462s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000262s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000509s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001788s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000495s ]
+[ 2013-01-04T17:52:32+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000560s ]
+[ 2013-01-04T17:52:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:52:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:52:34+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.000898s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.001007s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000661s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.000407s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.000480s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.008028s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.008124s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.000364s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.000434s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000257s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.000586s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.001875s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 120 行.
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 121 行.
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:178) View.class.php 第 122 行.
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.000687s ]
+[ 2013-01-04T17:52:41+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.000794s ]
+[ 2013-01-04T17:52:42+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 315 行.
+[ 2013-01-04T17:52:42+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 343 行.
+[ 2013-01-04T17:52:42+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 369 行.

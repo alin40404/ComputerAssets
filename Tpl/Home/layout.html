@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GB18030">
+<title><{$title}></title>
+ <link href="<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/Site.css" rel="stylesheet" type="text/css" />
+    <link href="<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/MenuMaster.css" rel="Stylesheet" type="text/css" />
+    <link href="<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/EditAppName.css" rel="Stylesheet" type="text/css" />
+    <link href="<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/bootstrap.min.css" rel="Stylesheet" type="text/css" />
+    <link href="<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/bootstrap-responsive.min.css" rel="Stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/js/jquery.js"></script>
+    <script type="text/javascript" src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/js/common.js"> </script>
+    <script type="text/javascript" src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/js/bootstrap.js"></script>
+	
+<!--[if lt IE 9]>
+<script type="text/javascript" src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/js/PIE.js"></script>
+    <style type="text/css">
+        div#header,div#main,.page,div#back_to_top
+        {
+            behavior: url('<{$Think.config.APP_ABSOLUTE_PATH }>Public/css/pie.htc');
+        }
+    </style>
+<![endif]-->
+</head>
+<body>
+	<div class="page">
+		<include file="Public:header" />
+		<div id="main">
+		{__CONTENT__}
+		 <div id="empty"></div>
+		</div>
+		<include file="Public:footer" />
+	</div>
+</body>
+</html>

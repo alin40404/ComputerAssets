@@ -1,0 +1,30 @@
+
+<div id="header">
+	<div id="imgLogo">
+		<img id="header_img"
+			src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/images/image001.png"
+			style="height: 92px; width: 335px;" />
+	</div>
+	<div id="title">ComputerAssets System</div>
+	<div id="logindisplay">
+		<span id="lang"> [<a
+			href="/Home/ChangeCulture?lang=zh-cn&amp;returnUrl=%2F">简体中文</a>] [<a
+			href="/Home/ChangeCulture?lang=zh-hk&amp;returnUrl=%2F">繁体中文</a>] [<a
+			href="/Home/ChangeCulture?lang=en-us&amp;returnUrl=%2F">English</a>]
+		</span>
+		<span>
+		<?php if($_SESSION['userName']==NULL){ ?> 
+		<a href="__URL__/logOn">登录</a>|<a href="__URL__/register">注册</a>
+		 <?php }else{ ?> 欢迎你，<b><{$_SESSION['userName'] }></b>!<a href="__URL__/logOut">注销</a> 
+		 <?php } ?>
+		</span>
+	</div>
+	<div id="menucontainer">
+		<ul id="menu">
+			<li id="index"><a href="<{$Think.config.ABSOLUTE_PATH }>User/">主页</a></li>
+			<li><a href="<{$Think.config.ABSOLUTE_PATH }>User/EditPerInformation">个人信息</a></li>
+			<li><a href="<{$Think.config.ABSOLUTE_PATH }>User/ChangePassword">更改密码</a></li>
+			<li><a href="<{$Think.config.ABSOLUTE_PATH }>User/About">关于我们</a></li>
+		</ul>
+	</div>
+</div>

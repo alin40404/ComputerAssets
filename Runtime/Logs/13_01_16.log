@@ -1,0 +1,526 @@
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run CheckRoute Behavior [ RunTime:0.013633s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ route_check ] --END-- [ RunTime:0.021661s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ReadHtmlCache Behavior [ RunTime:0.008623s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ app_begin ] --END-- [ RunTime:0.008703s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run LocationTemplate Behavior [ RunTime:0.024213s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_template ] --END-- [ RunTime:0.024325s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ParseTemplate Behavior [ RunTime:0.079463s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_parse ] --END-- [ RunTime:0.079575s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ContentReplace Behavior [ RunTime:0.021801s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run TokenBuild Behavior [ RunTime:0.012335s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run WriteHtmlCache Behavior [ RunTime:0.039807s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowRuntime Behavior [ RunTime:0.049495s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_filter ] --END-- [ RunTime:0.123738s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:253) View.class.php 第 120 行.
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:253) View.class.php 第 121 行.
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:253) View.class.php 第 122 行.
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Run ShowPageTrace Behavior [ RunTime:0.013637s ]
+[ 2013-01-16T10:09:25+08:00 ] /ComputerAssets/index.php/User/Test | INFO: Tag[ view_end ] --END-- [ RunTime:0.013736s ]
+[ 2013-01-16T10:09:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 390 行.
+[ 2013-01-16T10:09:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [8] Undefined index:  HTTP_REFERER UserAction.class.php 第 418 行.
+[ 2013-01-16T10:09:26+08:00 ] /ComputerAssets/index.php/User/Test | NOTIC: [2048] Only variables should be passed by reference UserAction.class.php 第 444 行.
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001938s ]
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002039s ]
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001615s ]
+[ 2013-01-16T10:09:30+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001685s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002509s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002630s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.091186s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.091269s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001627s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.002073s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001279s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001714s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006930s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002576s ]
+[ 2013-01-16T10:09:31+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002733s ]
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001978s ]
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002082s ]
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001682s ]
+[ 2013-01-16T10:09:34+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001756s ]
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.002010s ]
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002117s ]
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001699s ]
+[ 2013-01-16T10:22:16+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001773s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002489s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002605s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.033398s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033481s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001546s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001569s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001301s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001600s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006216s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003543s ]
+[ 2013-01-16T10:22:17+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003758s ]
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001437s ]
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001538s ]
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001205s ]
+[ 2013-01-16T10:23:48+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001279s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.001617s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001711s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.036531s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.036611s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001034s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001177s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000811s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001074s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004285s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002943s ]
+[ 2013-01-16T10:23:49+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003141s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.000927s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001029s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000712s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000801s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000528s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000618s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.032947s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.033033s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.000643s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.000682s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000365s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000653s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002594s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000954s ]
+[ 2013-01-16T10:24:45+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001086s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.000908s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001008s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000601s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000678s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000521s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000611s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.026435s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026518s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.000530s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.000532s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000269s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000542s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002060s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.000570s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.000648s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.002419s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002535s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001635s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001711s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002603s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002711s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.037308s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.037391s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001928s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001759s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001296s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001574s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006768s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001775s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001855s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.002011s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002113s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.004616s ]
+[ 2013-01-16T10:25:00+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.004721s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002555s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002665s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.030904s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.030988s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001569s ]
+[ 2013-01-16T10:25:01+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001558s ]
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001297s ]
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.002902s ]
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007546s ]
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.004884s ]
+[ 2013-01-16T10:25:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004996s ]
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001944s ]
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002049s ]
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001620s ]
+[ 2013-01-16T10:27:28+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001690s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002373s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002473s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.039802s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039889s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001887s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001896s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001363s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001610s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007024s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.004421s ]
+[ 2013-01-16T10:27:29+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004609s ]
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.002066s ]
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002190s ]
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001846s ]
+[ 2013-01-16T10:27:38+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001944s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002385s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002480s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.035244s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035325s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001894s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001577s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001068s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001576s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006322s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.006015s ]
+[ 2013-01-16T10:27:39+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.006175s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.003432s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.003556s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001751s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001829s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002380s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002473s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.039114s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.039195s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001569s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001707s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001322s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001601s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006393s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.004625s ]
+[ 2013-01-16T10:28:02+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004838s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001945s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002048s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001623s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001695s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002361s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002453s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.035086s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.035168s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001696s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.002182s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001418s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001601s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.007150s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.005905s ]
+[ 2013-01-16T10:35:06+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.006106s ]
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001960s ]
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002064s ]
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001651s ]
+[ 2013-01-16T10:36:24+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001721s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002375s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002473s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.031641s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.031728s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.002250s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001606s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001040s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001579s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.006688s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.003984s ]
+[ 2013-01-16T10:36:25+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.004154s ]
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.012708s ]
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.012833s ]
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009068s ]
+[ 2013-01-16T16:55:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009168s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.013789s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.013905s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.081326s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.081410s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.005408s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.012395s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001495s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.021037s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.040623s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.007802s ]
+[ 2013-01-16T16:55:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.008031s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001740s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001861s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001145s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001219s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.001870s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.001983s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.034266s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.034355s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001282s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001206s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000810s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001089s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004595s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001776s ]
+[ 2013-01-16T16:57:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.002010s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001535s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001683s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000639s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000710s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000557s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000650s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 187 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 191 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 198 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.026488s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.026571s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.000696s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.000576s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000295s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.000542s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002315s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.001015s ]
+[ 2013-01-16T16:57:37+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.001175s ]
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.000911s ]
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001013s ]
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000609s ]
+[ 2013-01-16T16:59:35+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000681s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.002180s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.002294s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 196 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 196 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 200 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 200 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 207 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.032250s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.032343s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.001307s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.001185s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000799s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001129s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.004647s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.005550s ]
+[ 2013-01-16T16:59:36+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.005655s ]
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --START--
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run CheckRoute Behavior [ RunTime:0.001976s ]
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002101s ]
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001187s ]
+[ 2013-01-16T16:59:40+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001263s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --START--
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run LocationTemplate Behavior [ RunTime:0.000517s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_template ] --END-- [ RunTime:0.000622s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --START--
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 196 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  userName e5f1a466f1f1cc7a7a1217fc38159288.php 第 196 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: UserName e5f1a466f1f1cc7a7a1217fc38159288.php 第 200 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined index:  password e5f1a466f1f1cc7a7a1217fc38159288.php 第 200 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [8] Undefined variable: error e5f1a466f1f1cc7a7a1217fc38159288.php 第 207 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ParseTemplate Behavior [ RunTime:0.027152s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_parse ] --END-- [ RunTime:0.027236s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --START--
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ContentReplace Behavior [ RunTime:0.000513s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run TokenBuild Behavior [ RunTime:0.000557s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000277s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowRuntime Behavior [ RunTime:0.001002s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002553s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 120 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 121 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\AppServ\www\ComputerAssets\Lib\Action\Home\UserAction.class.php:226) View.class.php 第 122 行.
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --START--
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Run ShowPageTrace Behavior [ RunTime:0.002854s ]
+[ 2013-01-16T16:59:41+08:00 ] /ComputerAssets/index.php/User/Test1 | INFO: Tag[ view_end ] --END-- [ RunTime:0.003028s ]

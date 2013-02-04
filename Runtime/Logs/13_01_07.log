@@ -1,0 +1,1305 @@
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.180007s ]
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.192260s ]
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.075212s ]
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.075313s ]
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:20:55+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.096420s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.096526s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.160813s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.160896s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.016279s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.011697s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.001563s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.004260s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.034077s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.001434s ]
+[ 2013-01-07T11:20:56+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.001503s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001004s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001106s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000713s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000784s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000926s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.001029s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.016510s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016603s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000594s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000586s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000378s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000627s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002371s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000620s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000690s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001010s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001115s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000693s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000763s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.001174s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.001255s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  UserName 112e78395333685c35a58c08c11da54a.php 第 83 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Email 112e78395333685c35a58c08c11da54a.php 第 91 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Password 112e78395333685c35a58c08c11da54a.php 第 98 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  ConfirmPassword 112e78395333685c35a58c08c11da54a.php 第 105 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined variable: error 112e78395333685c35a58c08c11da54a.php 第 111 行.
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.041314s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.041398s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000515s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000592s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000362s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000611s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002263s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000580s ]
+[ 2013-01-07T11:21:08+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000646s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001006s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001108s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000689s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000757s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | SQL: SHOW COLUMNS FROM account.think_user [ RunTime:0.064546s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000750s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000836s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016238s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016322s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000512s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000582s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000384s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000647s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002316s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000589s ]
+[ 2013-01-07T11:21:12+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000655s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001007s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001108s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000690s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000759s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | SQL: SHOW COLUMNS FROM account.think_user [ RunTime:0.002531s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000637s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000720s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016185s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016270s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000518s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000582s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000367s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000611s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002268s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000585s ]
+[ 2013-01-07T11:21:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000665s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001740s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001868s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000719s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000789s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000501s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000571s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.016641s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016723s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000520s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.001246s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000407s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000639s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.003015s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000622s ]
+[ 2013-01-07T11:21:14+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000692s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001174s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001298s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000741s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000820s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | SQL: SHOW COLUMNS FROM account.think_user [ RunTime:0.002529s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | SQL: SELECT * FROM account.think_user WHERE ( `UserName` = '' ) AND ( `Password` = 'd41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.001146s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000667s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000741s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.015188s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015271s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000523s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000577s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000356s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000609s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002248s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000618s ]
+[ 2013-01-07T11:21:15+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000697s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001178s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001298s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001207s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001289s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000512s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000584s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  UserName 112e78395333685c35a58c08c11da54a.php 第 83 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Email 112e78395333685c35a58c08c11da54a.php 第 91 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Password 112e78395333685c35a58c08c11da54a.php 第 98 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  ConfirmPassword 112e78395333685c35a58c08c11da54a.php 第 105 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined variable: error 112e78395333685c35a58c08c11da54a.php 第 111 行.
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016432s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016514s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000505s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000707s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000489s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000635s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002556s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000590s ]
+[ 2013-01-07T11:21:16+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000657s ]
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001005s ]
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001107s ]
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000690s ]
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000759s ]
+[ 2013-01-07T11:21:17+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | SQL: SHOW COLUMNS FROM account.think_user [ RunTime:0.002720s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000649s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000738s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.015111s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015195s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000514s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000581s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000375s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000616s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002270s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000590s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000655s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001012s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001128s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000724s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000796s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000727s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000811s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.016829s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016913s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000525s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000574s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000366s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000612s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002258s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000588s ]
+[ 2013-01-07T11:21:18+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000655s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001527s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001650s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000730s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000800s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000508s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000580s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  UserName 112e78395333685c35a58c08c11da54a.php 第 83 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Email 112e78395333685c35a58c08c11da54a.php 第 91 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Password 112e78395333685c35a58c08c11da54a.php 第 98 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  ConfirmPassword 112e78395333685c35a58c08c11da54a.php 第 105 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined variable: error 112e78395333685c35a58c08c11da54a.php 第 111 行.
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016322s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016404s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000525s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000589s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000452s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000758s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002533s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000608s ]
+[ 2013-01-07T11:21:19+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000675s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001002s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001102s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000688s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000784s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000615s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000693s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.016010s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016090s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000516s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000574s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000359s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000616s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002249s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000587s ]
+[ 2013-01-07T11:21:20+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000653s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001198s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001365s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000750s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000824s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000525s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000598s ]
+[ 2013-01-07T11:21:21+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  UserName 112e78395333685c35a58c08c11da54a.php 第 83 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Email 112e78395333685c35a58c08c11da54a.php 第 91 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Password 112e78395333685c35a58c08c11da54a.php 第 98 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  ConfirmPassword 112e78395333685c35a58c08c11da54a.php 第 105 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined variable: error 112e78395333685c35a58c08c11da54a.php 第 111 行.
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016393s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016474s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000505s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000768s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000371s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000629s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002470s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000792s ]
+[ 2013-01-07T11:21:22+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000875s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001033s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001137s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000712s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000782s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000524s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000598s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.018835s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018917s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000518s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000588s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000364s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000648s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002308s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000621s ]
+[ 2013-01-07T11:21:25+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000690s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001070s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001176s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000762s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000846s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000508s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000579s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  UserName 112e78395333685c35a58c08c11da54a.php 第 83 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Email 112e78395333685c35a58c08c11da54a.php 第 91 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  Password 112e78395333685c35a58c08c11da54a.php 第 98 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  ConfirmPassword 112e78395333685c35a58c08c11da54a.php 第 105 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined variable: error 112e78395333685c35a58c08c11da54a.php 第 111 行.
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.018399s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.018482s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000518s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000582s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000395s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000627s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002309s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000692s ]
+[ 2013-01-07T11:22:13+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000773s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run CheckRoute Behavior [ RunTime:0.001068s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ route_check ] --END-- [ RunTime:0.001174s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000699s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000769s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 62 行.
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | SQL: SHOW COLUMNS FROM account.think_user [ RunTime:0.002871s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run LocationTemplate Behavior [ RunTime:0.000711s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_template ] --END-- [ RunTime:0.000807s ]
+[ 2013-01-07T11:22:14+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | NOTIC: [8] Undefined index:  userName 112e78395333685c35a58c08c11da54a.php 第 43 行.
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ParseTemplate Behavior [ RunTime:0.016289s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_parse ] --END-- [ RunTime:0.016373s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ContentReplace Behavior [ RunTime:0.000518s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run TokenBuild Behavior [ RunTime:0.000591s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000364s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowRuntime Behavior [ RunTime:0.000655s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002324s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Run ShowPageTrace Behavior [ RunTime:0.000734s ]
+[ 2013-01-07T11:22:15+08:00 ] /ComputerAssets/index.php/User/register | INFO: Tag[ view_end ] --END-- [ RunTime:0.000830s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run CheckRoute Behavior [ RunTime:0.001005s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ route_check ] --END-- [ RunTime:0.001106s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000690s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000759s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName UserAction.class.php 第 19 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run LocationTemplate Behavior [ RunTime:0.000505s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_template ] --END-- [ RunTime:0.000576s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 43 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 84 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 89 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 98 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  userName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 113 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: UserName d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined index:  password d16fb8dd5cb09c533fe8af903d5b11b7.php 第 117 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | NOTIC: [8] Undefined variable: error d16fb8dd5cb09c533fe8af903d5b11b7.php 第 124 行.
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ParseTemplate Behavior [ RunTime:0.015654s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_parse ] --END-- [ RunTime:0.015735s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ContentReplace Behavior [ RunTime:0.000509s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run TokenBuild Behavior [ RunTime:0.000603s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run WriteHtmlCache Behavior [ RunTime:0.000360s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowRuntime Behavior [ RunTime:0.000615s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_filter ] --END-- [ RunTime:0.002272s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --START--
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Run ShowPageTrace Behavior [ RunTime:0.000579s ]
+[ 2013-01-07T11:22:16+08:00 ] /ComputerAssets/index.php/User/logOn | INFO: Tag[ view_end ] --END-- [ RunTime:0.000646s ]
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001565s ]
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001670s ]
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001303s ]
+[ 2013-01-07T11:34:55+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001395s ]
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001083s ]
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001190s ]
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000715s ]
+[ 2013-01-07T11:36:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000786s ]
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001563s ]
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001668s ]
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002093s ]
+[ 2013-01-07T11:55:46+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002184s ]
+[ 2013-01-07T11:55:59+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001540s ]
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001644s ]
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001210s ]
+[ 2013-01-07T11:58:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001280s ]
+[ 2013-01-07T11:58:30+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.012743s ]
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.012869s ]
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009135s ]
+[ 2013-01-07T14:05:58+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009232s ]
+[ 2013-01-07T14:06:11+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001535s ]
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001639s ]
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001228s ]
+[ 2013-01-07T14:07:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001299s ]
+[ 2013-01-07T14:08:01+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T14:08:01+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001936s ]
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002070s ]
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001252s ]
+[ 2013-01-07T14:10:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001325s ]
+[ 2013-01-07T14:10:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T14:10:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001640s ]
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001754s ]
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001229s ]
+[ 2013-01-07T14:11:04+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001300s ]
+[ 2013-01-07T14:11:17+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier 't' UserAction.class.php 第 174 行.
+[ 2013-01-07T14:11:17+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001703s ]
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002472s ]
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001254s ]
+[ 2013-01-07T14:12:06+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001326s ]
+[ 2013-01-07T14:12:19+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001621s ]
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001742s ]
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001278s ]
+[ 2013-01-07T14:12:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001357s ]
+[ 2013-01-07T14:13:06+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001560s ]
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001678s ]
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001275s ]
+[ 2013-01-07T14:14:49+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001356s ]
+[ 2013-01-07T14:15:02+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001528s ]
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001631s ]
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001393s ]
+[ 2013-01-07T14:15:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001487s ]
+[ 2013-01-07T14:15:43+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.002020s ]
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002139s ]
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001225s ]
+[ 2013-01-07T14:20:57+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001304s ]
+[ 2013-01-07T14:21:10+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001572s ]
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001681s ]
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001292s ]
+[ 2013-01-07T14:22:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001365s ]
+[ 2013-01-07T14:23:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.002070s ]
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002199s ]
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001234s ]
+[ 2013-01-07T14:24:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001305s ]
+[ 2013-01-07T14:24:43+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.002560s ]
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002683s ]
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001254s ]
+[ 2013-01-07T14:24:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001325s ]
+[ 2013-01-07T14:25:07+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001008s ]
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001112s ]
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000693s ]
+[ 2013-01-07T14:26:28+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000762s ]
+[ 2013-01-07T14:26:41+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001005s ]
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001113s ]
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000802s ]
+[ 2013-01-07T14:27:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000882s ]
+[ 2013-01-07T14:27:31+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_grep() expects parameter 2 to be array, string given UserAction.class.php 第 175 行.
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001600s ]
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001706s ]
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001241s ]
+[ 2013-01-07T14:33:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001317s ]
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001962s ]
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002085s ]
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001265s ]
+[ 2013-01-07T14:36:39+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001342s ]
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001665s ]
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001782s ]
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001634s ]
+[ 2013-01-07T14:44:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001733s ]
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001073s ]
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001185s ]
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000717s ]
+[ 2013-01-07T14:45:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000787s ]
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.002333s ]
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.002452s ]
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001258s ]
+[ 2013-01-07T15:21:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001332s ]
+[ 2013-01-07T15:21:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 184 行.
+[ 2013-01-07T15:21:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 197 行.
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001009s ]
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001112s ]
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000792s ]
+[ 2013-01-07T15:21:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000865s ]
+[ 2013-01-07T15:21:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 184 行.
+[ 2013-01-07T15:21:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 197 行.
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001143s ]
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001264s ]
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000713s ]
+[ 2013-01-07T15:22:10+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000785s ]
+[ 2013-01-07T15:22:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 185 行.
+[ 2013-01-07T15:22:23+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 198 行.
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001539s ]
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001643s ]
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001200s ]
+[ 2013-01-07T15:25:30+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001268s ]
+[ 2013-01-07T15:25:43+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 186 行.
+[ 2013-01-07T15:25:43+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 199 行.
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.000999s ]
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001100s ]
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000691s ]
+[ 2013-01-07T15:25:59+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000760s ]
+[ 2013-01-07T15:26:12+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 186 行.
+[ 2013-01-07T15:26:12+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 199 行.
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001022s ]
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001125s ]
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000691s ]
+[ 2013-01-07T15:26:42+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000768s ]
+[ 2013-01-07T15:26:56+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 187 行.
+[ 2013-01-07T15:26:56+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 200 行.
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001109s ]
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001221s ]
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000710s ]
+[ 2013-01-07T15:27:24+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000782s ]
+[ 2013-01-07T15:27:36+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 187 行.
+[ 2013-01-07T15:27:36+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 200 行.
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001571s ]
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001676s ]
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001209s ]
+[ 2013-01-07T15:27:53+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001280s ]
+[ 2013-01-07T15:28:05+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 187 行.
+[ 2013-01-07T15:28:05+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 200 行.
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001544s ]
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001649s ]
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001266s ]
+[ 2013-01-07T15:30:54+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001343s ]
+[ 2013-01-07T15:31:07+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 188 行.
+[ 2013-01-07T15:31:07+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 200 行.
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001008s ]
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001110s ]
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000695s ]
+[ 2013-01-07T15:31:17+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000766s ]
+[ 2013-01-07T15:31:30+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] stripos() [<a href='function.stripos'>function.stripos</a>]: needle is not a string or an integer UserAction.class.php 第 188 行.
+[ 2013-01-07T15:31:30+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_match() expects parameter 2 to be string, array given UserAction.class.php 第 200 行.
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001066s ]
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001180s ]
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000769s ]
+[ 2013-01-07T15:32:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000852s ]
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001571s ]
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001678s ]
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001216s ]
+[ 2013-01-07T15:34:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001285s ]
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001519s ]
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001636s ]
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001246s ]
+[ 2013-01-07T15:37:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001326s ]
+[ 2013-01-07T15:37:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier ']' UserAction.class.php 第 203 行.
+[ 2013-01-07T15:37:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier ']' UserAction.class.php 第 203 行.
+[ 2013-01-07T15:37:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier ']' UserAction.class.php 第 203 行.
+[ 2013-01-07T15:37:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [2] preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Unknown modifier ']' UserAction.class.php 第 203 行.
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001003s ]
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001103s ]
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000689s ]
+[ 2013-01-07T15:38:18+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000757s ]
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001652s ]
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001758s ]
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001249s ]
+[ 2013-01-07T15:39:09+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001327s ]
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001028s ]
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001132s ]
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000769s ]
+[ 2013-01-07T15:40:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000848s ]
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:40:16+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 204 行.
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001580s ]
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001689s ]
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001228s ]
+[ 2013-01-07T15:42:29+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001311s ]
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:42:42+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  0 UserAction.class.php 第 205 行.
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001023s ]
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001125s ]
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000703s ]
+[ 2013-01-07T15:44:25+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000774s ]
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:44:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001531s ]
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001636s ]
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001220s ]
+[ 2013-01-07T15:45:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001293s ]
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:45:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001023s ]
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001127s ]
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000787s ]
+[ 2013-01-07T15:47:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000876s ]
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Array to string conversion UserAction.class.php 第 193 行.
+[ 2013-01-07T15:47:28+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Undefined offset:  1 UserAction.class.php 第 195 行.
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001523s ]
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001631s ]
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001211s ]
+[ 2013-01-07T15:56:45+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001281s ]
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001536s ]
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001639s ]
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001218s ]
+[ 2013-01-07T15:59:02+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001290s ]
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001025s ]
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001131s ]
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003063s ]
+[ 2013-01-07T16:00:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.003163s ]
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001541s ]
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001648s ]
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001551s ]
+[ 2013-01-07T16:02:03+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001656s ]
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001525s ]
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001635s ]
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001320s ]
+[ 2013-01-07T16:23:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001395s ]
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:13+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001590s ]
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001721s ]
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000734s ]
+[ 2013-01-07T16:23:44+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000804s ]
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:23:57+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001210s ]
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001358s ]
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000766s ]
+[ 2013-01-07T16:24:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000856s ]
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:24:44+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001704s ]
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001818s ]
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001225s ]
+[ 2013-01-07T16:25:51+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001328s ]
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:26:04+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001020s ]
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001122s ]
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000871s ]
+[ 2013-01-07T16:27:01+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000979s ]
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:14+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001016s ]
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001119s ]
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000841s ]
+[ 2013-01-07T16:27:41+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000949s ]
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:27:54+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001630s ]
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001750s ]
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001206s ]
+[ 2013-01-07T16:28:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001282s ]
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:28:39+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 204 行.
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.000994s ]
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001096s ]
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000688s ]
+[ 2013-01-07T16:29:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000758s ]
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:29:32+08:00 ] /ComputerAssets/index.php/User/Test2 | NOTIC: [8] Use of undefined constant count - assumed 'count' UserAction.class.php 第 205 行.
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.000997s ]
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001099s ]
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000773s ]
+[ 2013-01-07T16:30:26+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000854s ]
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001530s ]
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001634s ]
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001214s ]
+[ 2013-01-07T16:40:19+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001285s ]
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.001017s ]
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.001119s ]
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000694s ]
+[ 2013-01-07T16:41:16+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000763s ]

@@ -1,0 +1,57 @@
+<style type="text/css">
+      div#empty{
+	padding: 0 0 3px;
+      }
+    </style>
+<div class="container">
+<!-- 
+<h2>创建新帐户</h2>
+    <p>
+        使用以下表单创建新帐户。 
+    </p>
+    <p>
+     密码的长度至少为6个字符。 
+    </p>
+  -->
+    <form action="__URL__/register" method="post" class="form-horizontal">
+        <div class="fieldset">
+            <fieldset>
+                <legend>创建新帐户</legend>
+                <div class="editor-label">
+                    <label  for="UserName">用户名</label>	
+                </div>
+                <div class="editor-field">
+                    <input class="text" id="UserName" name="UserName" type="text" value="<{$_POST['UserName']}>" placeholder="用户名"/>  
+                    
+                </div>
+
+                <div class="editor-label">
+                     <label  for="Email">邮箱</label>	
+                </div>
+                <div class="editor-field">
+                <input class="text" id="Email" name="Email" type="text" value="<{$_POST['Email']}>" placeholder="Email"/>  
+                </div>
+                
+                <div class="editor-label">
+                    <label  for="Password">密码</label>	
+                </div>
+                <div class="editor-field">
+                    <input class="text" id="Password" name="Password" type="password" value="<{$_POST['Password']}>" placeholder="密码长度至少6个字符"/>     
+                </div>
+                
+                <div class="editor-label">
+                      <label  for="ConfirmPassword">确认密码</label>	
+                </div>
+                <div class="editor-field">
+                    <input class="text" id="ConfirmPassword" name="ConfirmPassword" type="password" value="<{$_POST['ConfirmPassword']}>" placeholder="请再次输入密码"/>
+                </div>
+                <div >
+                <button type="submit" class="btn btn-primary">注册</button><i>已注册？去</i>
+				<a style="text-decoration:none;" class="btn" href="__URL__/logOn">登录</a>
+                </div>
+                <div><label style="color:red;"><{$error}></label></div>
+            </fieldset>
+        </div>
+    </form>	
+    </div>
+

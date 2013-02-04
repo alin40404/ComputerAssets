@@ -1,0 +1,70 @@
+<style type="text/css">
+  /*    body {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-color: #f5f5f5;
+      }
+*/
+
+      
+      div#empty{
+	padding: 0 0 3px;
+      }
+    </style>
+
+
+<!--  
+<form action="__URL__/logOn" method="post">
+	<div class="fieldset">
+		<fieldset>
+			<legend>帐号信息</legend>
+
+			<div class="editor-label">用户名</div>
+			<div class="editor-field">
+				<input class="text" id="UserName" name="UserName" type="text"
+					value="<?php if($UserName!=null){ echo $UserName; }else{ echo $_COOKIE['userName']; }?>" />
+			</div>
+
+			<div class="editor-label">密码</div>
+			<div class="editor-field">
+				<input class="text" id="Password" name="Password" type="password" value="<?php if($UserName==null){  echo $_COOKIE['password']; }?>" />
+
+			</div>
+
+			<div class="editor-label">
+				<label for="RememberMe"><input id="RememberMe" name="RememberMe" type="checkbox" checked="checked"
+					value="true" /> 记住我?</label>
+			</div>
+			<div>
+				<input type="submit" value="登录" /><span style="marign:0 5px;"><label style="color:red;"><{$error}></label></span>
+			</div>
+		</fieldset>
+	</div>
+</form>
+-->
+
+<div class="container">
+<h2>登录</h2>
+<p>
+	请输入用户名和密码。 
+</p>
+<form action="__URL__/logOn" method="post" class="form-signin">
+<div class="input-prepend">
+        <span class="add-on">用户名</span>
+        <input id="UserName" name="UserName" type="text" class="input-block-level" placeholder="用户名或邮箱" value="<?php if($UserName!=null){ echo $UserName; }else{ echo $_COOKIE['userName']; }?>" />
+        </div>
+        <div class="input-prepend" >
+        <span class="add-on">密码</span>
+        <input id="Password" name="Password" type="password" class="input-block-level" placeholder="密码" value="<?php if($UserName==null){  echo $_COOKIE['password']; }?>" />
+       </div>
+        <label class="checkbox">
+          <input type="checkbox" value="remember-me" checked="checked"> 记住我?
+        </label>
+        <button class="btn btn-primary" type="submit">登录</button><i>没帐户?去</i>
+        <a style="text-decoration:none;" class="btn" href="__URL__/register">注册</a>
+        <span style="marign:0 5px;"><label style="color:red;"><{$error}></label></span>
+      </form>
+
+ </div> <!-- /container -->
+
+

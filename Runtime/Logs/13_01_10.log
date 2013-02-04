@@ -1,0 +1,126 @@
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.013243s ]
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.025481s ]
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.008756s ]
+[ 2013-01-10T10:23:14+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.008851s ]
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001007s ]
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001112s ]
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000657s ]
+[ 2013-01-10T10:24:01+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000749s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.000902s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001004s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000761s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000847s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001290s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001407s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000619s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000688s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.000903s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001005s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000664s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000741s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.000894s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.000992s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000593s ]
+[ 2013-01-10T10:24:02+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000662s ]
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.002480s ]
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.002598s ]
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.001294s ]
+[ 2013-01-10T10:30:50+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.001384s ]
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.085258s ]
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.114070s ]
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.038292s ]
+[ 2013-01-10T13:03:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.038404s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001577s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001685s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.012074s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.012167s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001027s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001132s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000733s ]
+[ 2013-01-10T15:51:18+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000805s ]
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001015s ]
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001116s ]
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000698s ]
+[ 2013-01-10T15:51:20+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000769s ]
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.012775s ]
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.012908s ]
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.009197s ]
+[ 2013-01-10T16:46:30+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.009293s ]
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001025s ]
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001127s ]
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000710s ]
+[ 2013-01-10T16:47:23+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000782s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001111s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001219s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000707s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000779s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001158s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001270s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000739s ]
+[ 2013-01-10T16:47:24+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000814s ]
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001768s ]
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001912s ]
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002124s ]
+[ 2013-01-10T16:47:31+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.002243s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001064s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001182s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000711s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000782s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001081s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001189s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000790s ]
+[ 2013-01-10T16:47:32+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000881s ]
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001078s ]
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001184s ]
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000715s ]
+[ 2013-01-10T16:47:33+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000787s ]
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001025s ]
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001129s ]
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000698s ]
+[ 2013-01-10T16:48:46+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000769s ]
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --START--
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run CheckRoute Behavior [ RunTime:0.001079s ]
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ route_check ] --END-- [ RunTime:0.001186s ]
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --START--
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Run ReadHtmlCache Behavior [ RunTime:0.000719s ]
+[ 2013-01-10T16:48:47+08:00 ] /ComputerAssets/index.php/User/show | INFO: Tag[ app_begin ] --END-- [ RunTime:0.000789s ]

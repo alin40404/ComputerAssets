@@ -1,0 +1,130 @@
+<include file="Public:mainMenu" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("label.Delete a").click(function () {
+               // var pageStyle = $("label#pageStyle").attr("class");
+                var idCss = $(this).attr("id");
+                idCss = idCss.substring(6);
+                var number = idCss;
+                var page = $(this).attr("class");
+                var url =  "<{$Think.config.ABSOLUTE_PATH }>Content/deleteApplicationName/?number=" + number + "&p=" + page ;
+                var bool = confirm("确定要删除吗？");
+                if (bool == true) {
+                    $(this).attr("href", url);
+                }
+                
+            });
+            $("label.Update a").click(function () {
+               // var pageStyle = $("label#pageStyle").attr("class");
+                var idCss = $(this).attr("id");
+                idCss = idCss.substring(6);
+                var number = idCss
+                var textId = $("input#textBoxApp" + idCss).attr("value");
+                var content = textId;
+                var cla = $(this).attr("class");
+                var idPage = cla.split("_");
+                var id = idPage[0];
+                var page = idPage[1];
+                if (content == "") {
+                    //alert("input不为空" + textId);
+                    $("input#textBoxApp" + idCss).focus();
+                    $("input#textBoxApp" + idCss).css("border-color", "Red");
+                    // var error = "input#textBoxApp" + idCss + " ";
+                } else {
+                    var url ="<{$Think.config.ABSOLUTE_PATH }>Content/editApplicationList/?id=" + id + "&p=" + page+ "&number=" + number + "&content=" + content;
+                    //   alert(url);
+                    $(this).attr("href", url);
+                }
+            });
+ 
+            $("label.addLabel a#add").click(function () {
+               // var pageStyle = $("label#pageStyle").attr("class");
+                var textId = $("input#textBoxAdd").attr("value");
+                var content = textId;
+                var cla = $(this).attr("class");
+                var idPage = cla.split("_");
+                var id = idPage[0];
+                var page = idPage[1];
+                if (content == "") {
+                    $("input#textBoxAdd").focus();
+                    $("input#textBoxAdd").css("border-color", "Red");
+                } else {
+                    var url ="<{$Think.config.ABSOLUTE_PATH }>Content/addApplicationList/?id=" + id + "&p=" + page + "&content=" + content;
+                    $(this).attr("href", url);
+                    //alert(url);
+                }
+ 
+            });
+ 
+        });
+    </script>
+
+<div id="MainContent">
+ <div style="font-size: 1em; padding: 0px; margin: 5px 0px 5px 0px">
+            <?php if($id!=2){ ?>
+            <span>
+                <label id="pageStyle" class="paging">编辑应用程序列表1</label>
+             </span> 
+            <span class="viewAppList">
+                <label><a href="<{$Think.config.ABSOLUTE_PATH }>Content/applicationList/?id=2&p=<{$p}>">查看应用程序列表2</a></label>
+          </span> 
+          <?php }else{ ?>
+            <span  class="viewAppList">
+               <label><a href="<{$Think.config.ABSOLUTE_PATH }>Content/applicationList/?id=1&p=<{$p}>">编辑应用程序列表1</a></label>
+             </span> 
+            <span>
+                <label id="pageStyle" class="paging">查看应用程序列表2</label>
+          </span> 
+          <?php } ?>
+          <span style="color:red;"><em>ddd<{$promptInfor}></em></span>
+           <span>
+           <label style="font-size: 1em; font-weight: normal; color: #FF0000; position: absolute;padding-left: 20px; padding-right: 5px;">
+            <em>dfdf</em>
+           </label>
+        </span>
+        </div>
+
+	<div id="table">
+		<form method="post" action="<{$Think.config.ABSOLUTE_PATH }>Content/applicationList/?id=<{$id}>&p=<{$p}>" id="app_update">
+			<table>
+				<tr>
+					<th>应用程序名称</th>
+					<th>操作</th>
+				</tr>
+				<tr>
+					<td><input id="textBoxAdd" class="text" type="text"
+						style="width: 420px" name="textBoxAddApp1" /> <label
+						style="display: none; font-weight: normal; color: #FF0000; padding-left: 20px; padding-right: 5px;">
+							<em>*不能为空！ </em>
+					</label></td>
+					<td><label class="addLabel"> <a href="#" id="add"
+							class="<{$id}>_<{$p}>"> 添加</a>
+					</label></td>
+				</tr>
+		<?php   $countList=count($list);
+ 		for($i=0;$i<$countList;$i++){
+		$tempArray=$list{$i}; ?>
+				<tr>
+					<td>
+					<input id="textBoxApp<{$tempArray['ApplicationName_ID']}>" class="text" type="text" style="width: 420px" name="<{$tempArray['ApplicationName_ID']}>" value="<?php echo str_replace('"', '&#34;',$tempArray['Application_Name']); ?>" />
+					 <label class="error" style="display: none; font-weight: normal; color: #FF0000; padding-left: 20px; padding-right: 5px;">
+					<em> *不能为空！</em>
+					</label></td>
+					<td>
+					<label class="Update"> 
+					<a href="#" id="update<{$tempArray['ApplicationName_ID']}>" class="<{$tempArray['ApplicationList_ID']}>_<{$p}>"> 更新</a>
+					</label> 
+					<label> |</label> 
+					<label class="Delete"> 	
+					<a href="#" id="delete<{$tempArray['ApplicationName_ID']}>" class="<{$tempArray['ApplicationList_ID']}>"> 删除</a>
+					</label></td>
+				</tr>
+				<?php } ?>
+			</table>
+		</form>
+	</div>
+	<?php //dump($page); ?>
+	<div id="paging"><span><{$page}></span>
+	</div>
+
+</div>

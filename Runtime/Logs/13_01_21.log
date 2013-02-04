@@ -1,0 +1,6 @@
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --START--
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run CheckRoute Behavior [ RunTime:0.013315s ]
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ route_check ] --END-- [ RunTime:0.025523s ]
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --START--
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Run ReadHtmlCache Behavior [ RunTime:0.008635s ]
+[ 2013-01-21T16:41:31+08:00 ] /ComputerAssets/index.php/User/Test2 | INFO: Tag[ app_begin ] --END-- [ RunTime:0.008723s ]

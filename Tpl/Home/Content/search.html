@@ -1,0 +1,116 @@
+ <script type="text/javascript" src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/js/Search.js"></script>
+ <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("a#exportExcel").click(function () {
+                // var key = $("input#textBoxSearch_app").attr("value");
+                var key = document.cookie;
+               // alert('<{$Think.config.ABSOLUTE_PATH }>');
+                window.open("<{$Think.config.ABSOLUTE_PATH }>Content/exportExcelSearch/?key=" + key);
+            });
+        });
+
+        $(document).ready(function () {
+            $("div#mainTable").ajaxStart(function () {
+                $("span#loading").css("display", "inline");
+            });
+            $("div#mainTable").ajaxComplete(function () {
+                $("span#loading").css("display", "none");
+            });
+        });
+
+        $(document).ready(function () {
+            var siftId = $("span#siftSpan input").attr("id");
+            if (siftId == "siftEnUS") {
+                siftEnUS();
+            } else if (siftId == "siftZhHK") {
+                siftZhHK();
+            } else {
+                siftZhCH();
+            }
+        });
+
+    </script>
+<include file="Public:mainMenu" />
+<div id="MainContent">
+ <div id="Search_app_p" style=" margin-top: 7px; " >
+            <span >
+                <input class="text" id="textBoxSearch_app" type="text" value="请输入关键字·筛选" 
+                style="height: 1.5em; width: 430px; line-height:1.5em; font-size: 1.2em; color: #C0C0C0; word-spacing: normal;" />
+                </span>
+                <span id="siftSpan" style=" padding-right: 2.5px; padding-left: 2.5px; margin-right: 2.5px; margin-left: 2.5px;">
+                    <input id="siftZhCN" type="button" value="筛选" />
+                    </span>
+        <span id="loading"  style=" display: none; ">
+        <img src="<{$Think.config.APP_ABSOLUTE_PATH }>Public/images/loading3.gif" alt="正在加载..." 
+            style="height: 18px; width: 20px;"/>正在加载...
+            </span>
+            <span id="errorSelectAppName" style="color: #FF0000"></span>
+            <span style=" clear: both; display: block; position: absolute; top: 28px; right: 67px;">
+                <a id="exportExcel" href="#" title="导出Excel表">导出Excel表</a></span>
+        </div>
+        <div id="mainTable">
+            <form method="post" action="<{$Think.config.ABSOLUTE_PATH }>Content/searchReport" id="search">
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTUyNzgwODEyZGRnboKcz3PvTJkBeXR1E5thVQ68fXui9IEWe1YrGVtf/g==" />
+</div>
+
+            <div id="search_app_name" title="搜索">
+                <input id="search_app_n_submit" type="submit" value="" />
+            </div>
+            <div id="table" style="text-align: left; width: auto; border-top-width: thin; border-top-color: #C0C0C0;
+                border-top-style: ridge; padding-top: 10px; margin-top: 5px; padding-bottom: 10px;
+                margin-bottom: 5px;">
+                
+                <table cellspacing="0" align="center">
+                    <tr>
+                        <td colspan="2" style="text-align: center; font-size: 1.3em;"> Computer 搜索</td>
+                    </tr>
+                    <tr>
+                        <th style="height: 2em;">
+                            应用程序1
+                        </th>
+                        <th style="height: 2em;">
+                            应用程序2
+                        </th>
+                    </tr>
+                    <?php
+                     $countList1=count($list1);
+					$countList2=count($list2);
+					
+//dump($list1);dump($list2);
+$maxCount=($countList1>$countList2?$countList1:$countList2);
+ ?>
+
+                    <tr>
+                    <td>
+                     <?php
+ for($i=0;$i<$countList1;$i++){
+$tempArray=$list1{$i};
+ ?>
+                    <label><input type='checkbox' value='<?php echo $tempArray["Application_Name"]; ?>' /><?php echo $tempArray["Application_Name"]; ?></label><br />
+                             <?php	
+                   }
+ ?>          
+                    </td> 
+                    <td>
+                                        <?php
+ for($i=0;$i<$countList2;$i++){
+ ?> 
+                    <label><input type='checkbox' value='<?php echo $list2[$i]["Application_Name"] ; ?>' /><?php echo $list2[$i]["Application_Name"]; ?></label><br />   
+                          <?php
+                   }
+ ?>                                
+                    </td>
+                    </tr>
+
+                </table>
+            </div>
+            </form>
+        </div>
+
+
+</div>
+
+

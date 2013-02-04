@@ -1,0 +1,52 @@
+<h2>修改个人信息</h2>
+<div>
+ <form action="<{$Think.config.ABSOLUTE_PATH }>User/EditPerInformation" method="post">
+    <fieldset>
+        <legend>个人信息</legend>
+        <div class="editor-label">
+            <label for="UserName">用户名</label>
+        </div>
+        <div class="editor-field">
+            <input id="UserName" name="UserName" readonly="readonly" type="text" value="<{$data["UserName"]}>" />
+            
+        </div>
+        <div class="editor-label">
+            <label for="Email">电子邮件地址</label>
+        </div>
+        <div class="editor-field">
+            <input id="Email" name="Email" type="text" value="<{$data["Email"]}>" />
+            
+        </div>
+         <div class="editor-label">
+            <label for="PetName">昵称</label>
+        </div>
+        <div class="editor-field">
+            <input id="PetName" name="PetName" type="text" value="<{$data["PetName"]}>" />
+            
+        </div>
+         <div class="editor-label">
+            <label for="Phone">手机号</label>
+        </div>
+        <div class="editor-field">
+            <input id="Phone" name="Phone" type="text" value="<{$data["Phone"]}>" />
+            
+        </div>
+        
+        <div>
+            <span>
+                <input type="submit" value="保存" />
+            </span><span>
+                <label style="font-size: 1em; font-weight: normal; color: #FF0000; padding-left: 20px;
+                    padding-right: 5px;">
+                    <em>
+                        <{$error}>
+                    </em>
+                </label>
+            </span>
+        </div>
+    </fieldset>
+    </form>
+<div style="padding:2px 0px;">
+<?php //dump($data); ?><br /><span><{$updateTime}></span>
+</div>
+</div>
